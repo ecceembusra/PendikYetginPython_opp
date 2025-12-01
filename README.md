@@ -89,21 +89,6 @@ küçük projeleri içermektedir.
 
 Her ödev kendi dosyasında, fonksiyonel ve okunabilir bir şekilde yazılmıştır.
 
-Örnek dosya isimleri:
-
-- `module1_01_converter.py`
-- `module1_02_budget.py`
-- `module1_03_days_lived.py`
-- `module1_04_discount.py`
-- `module1_05_restaurant_tip.py`
-- `module2_01_grade_system.py`
-- `module2_02_tax_calculator.py`
-- `module2_03_restaurant_order.py`
-- `module2_04_rps_game.py`
-- `module2_05_credit_card_validator.py`
-
-İstersen kendi dosya isimlerini kullanabilir, bu listeyi ona göre güncelleyebilirsin.
-
 ---
 
 ## ▶️ Çalıştırma
@@ -113,5 +98,6 @@ Projeleri çalıştırmak için bilgisayarınızda **Python 3** yüklü olmalıd
 1. Bu projeyi klonlayın veya ZIP olarak indirin:
 
 ```bash
-git clone https://github.com/<kullanici-adi>/<repo-adi>.git
-cd <repo-adi>
+git clone https://github.com/ecceembusra/PendikYetginPython_opp.git
+
+cd <PendikYetginPython_opp>
