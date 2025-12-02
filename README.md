@@ -26,8 +26,9 @@ Bu repo, Python temellerinden mini projelere kadar 20+ adet uygulamalı Python d
 ---
 
 ## 🧩 İçerik
+### 📂 Mini Projeler
 
-### Modül 1 – Temel Python Alıştırmaları
+### Modül 1 
 
 1. **Basit Dönüştürücü**
    - Metre ↔ Feet
@@ -53,7 +54,7 @@ Bu repo, Python temellerinden mini projelere kadar 20+ adet uygulamalı Python d
 
 ---
 
-### Modül 2 – Uygulamalı Python Ödevleri
+### Modül 2 
 
 1. **Sınıf Geçme Sistemi**
    - Kullanıcıdan ders notlarını alır.
@@ -78,7 +79,7 @@ Bu repo, Python temellerinden mini projelere kadar 20+ adet uygulamalı Python d
 
 ---
 
-### Modül 3 – Mini Projeler
+### Modül 3
 1.	**Prime Number Range**
 	-	Kullanıcının girdiği iki sayı arasındaki asal sayıları bulur.
 	-	√n algoritması ile optimize edilmiştir.
@@ -129,8 +130,9 @@ cd <PendikYetginPython_opp>
 
 ---
 
-##🙏 Teşekkür
+## 🙏 Teşekkür
 
-Eğitim boyunca destekleri ve değerli bilgi paylaşımları için eğitmenim Berkay Kaplan’a teşekkür ederim.
-Bu repodaki tüm ödev dosyaları kendi yorumum, öğrenme yaklaşımım ve geliştirme stilimle hazırlanmıştır.
+- Eğitim boyunca destekleri ve değerli bilgi paylaşımları için eğitmenim Berkay Kaplan’a teşekkür ederim.
+- Bu repodaki tüm ödev dosyaları kendi yorumum, öğrenme yaklaşımım ve geliştirme stilimle hazırlanmıştır.
+
 ---
