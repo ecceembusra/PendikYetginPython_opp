@@ -21,8 +21,7 @@ Zoom üzerinden online olarak gerçekleştirilmiştir.
 - **Toplam Eğitim Saati:** 42  
 - **Eğitmen:** Berkay Kaplan  
 
-Bu repo, eğitim süresince modül modül verilen temel Python alıştırmalarını ve
-küçük projeleri içermektedir.
+Bu repo, Python temellerinden mini projelere kadar 20+ adet uygulamalı Python dosyasını içermektedir. Değişkenler, döngüler, fonksiyonlar, koşullar, sınıflar, desen oluşturma, tahmin oyunları, finans hesaplamaları ve temel algoritmalar gibi konularda pratik yapılmıştır.
 
 ---
 
@@ -75,9 +74,34 @@ küçük projeleri içermektedir.
 
 5. **Kredi Kartı Doğrulama (Luhn Algoritması)**
    - Kullanıcıdan alınan kart numarasının,
-     Luhn algoritmasına göre geçerli olup olmadığını kontrol eder.
+   - Luhn algoritmasına göre geçerli olup olmadığını kontrol eder.
 
 ---
+
+### Modül 3 – Mini Projeler
+1.	**Prime Number Range**
+	-	Kullanıcının girdiği iki sayı arasındaki asal sayıları bulur.
+	-	√n algoritması ile optimize edilmiştir.
+	-	Aralık içindeki tüm asal sayıları ekrana yazdırır.
+2.	**Pattern Generator**
+	-	Kullanıcının belirlediği satır sayısına göre yıldızlardan desen oluşturur.
+	-	Temel döngü mantığı ile çizim yapılır.
+	-	Örnek: artan yıldız piramidi.
+3.	**Number Guess Game – Advanced**
+	-	Gelişmiş sayı tahmin oyunu.
+	-	Min–max ipuçları ile yönlendirme yapar.
+	-	7 tahmin hakkı ve puan sistemi içerir.
+	-	Kullanıcı doğru tahmin ettiğinde oyunu bitirir.
+4.	**Multiplication Quiz**
+	-	Kullanıcıya rastgele 5 çarpma sorusu sorar.
+	-	Her doğru cevap 20 puandır.
+	-	Toplam puanı ve doğru sayısını gösterir.
+5.	**Interest Calculator (Bileşik Faiz Hesaplama)**
+	-	Ana para, faiz oranı ve yıl sayısına göre yıllık bileşik faiz hesaplar.
+	-	Her yılın sonunda oluşan toplam tutarı gösterir.
+	-	Finans temelinde kullanılan standart bileşik faiz formülünü uygular.
+
+   ---
 
 ## 🛠️ Kullanılan Teknolojiler
 
@@ -101,3 +125,12 @@ Projeleri çalıştırmak için bilgisayarınızda **Python 3** yüklü olmalıd
 git clone https://github.com/ecceembusra/PendikYetginPython_opp.git
 
 cd <PendikYetginPython_opp>
+```
+
+---
+
+##🙏 Teşekkür
+
+Eğitim boyunca destekleri ve değerli bilgi paylaşımları için eğitmenim Berkay Kaplan’a teşekkür ederim.
+Bu repodaki tüm ödev dosyaları kendi yorumum, öğrenme yaklaşımım ve geliştirme stilimle hazırlanmıştır.
+---
