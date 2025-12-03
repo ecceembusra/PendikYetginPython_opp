@@ -104,6 +104,60 @@ Bu repo, Python temellerinden mini projelere kadar 20+ adet uygulamalı Python d
 
    ---
 
+### Modül 4
+
+1. **Hesap Makinesi (Gelişmiş Dört İşlem)**
+	-	Toplama, çıkarma, çarpma ve bölme işlemlerini yapar.
+	-	Üs alma ve karekök gibi ileri seviye fonksiyonlar içerir.
+	-	Hata kontrolü (sıfıra bölme vb.) uygulanmıştır.
+
+2. **Şifre Oluşturucu**
+	-	İstenilen uzunlukta rastgele güçlü şifre üretir.
+	-	Sayı, harf ve özel karakter seçenekleri sunar.
+	-	secrets modülü ile güvenli rastgelelik sağlar.
+
+3. **Metin Analizi Aracı**
+	-	Kelime sayısı, karakter sayısı ve istatistiksel analiz yapar.
+	-	En sık geçen kelimeleri listeler.
+	-	Noktalama işaretlerini temizleyerek detaylı analiz çıkartır.
+
+4. **Birim Dönüştürücü Paketi**
+	-	Sıcaklık, uzunluk ve ağırlık dönüşümleri yapar.
+	-	C→F, km→mil, kg→lb gibi sık kullanılan dönüşümler içerir.
+	-	Kullanıcı girişine göre dinamik sonuç üretir.
+
+5. **Matematiksel Fonksiyonlar**
+	-	Trigonometri (sin, cos, tan) işlemlerini hesaplar.
+	-	Logaritma fonksiyonları (ln, log10) içerir.
+	-	Ortalama, medyan ve standart sapma gibi istatistiksel analiz yapar.
+
+6. **Ürün Envanter Sistemi**
+	-	Ürün ekler, stok günceller ve ürün araması yapar.
+	-	Dictionary tabanlı basit envanter yönetimi sağlar.
+	-	Tüm ürünleri listeleyebilir.
+
+7. **Sözlük Uygulaması (TR → EN)**
+	-	Türkçe kelimenin İngilizce karşılığını verir.
+	-	Kullanıcı yeni kelime ekleyebilir.
+	-	50+ kelimelik genişletilmiş veri seti içerir.
+
+8. **E-Ticaret Sepeti**
+	-	Sepete ürün ekleme ve çıkarma işlemleri yapar.
+	-	Toplam fiyatı otomatik hesaplar.
+	-	Ürün adetlerini dikkate alarak gerçek sepet mantığıyla çalışır.
+
+9. **Öğrenci Devamsızlık Takibi**
+	-	Tarih bazlı devamsızlık kaydı alır.
+	-	Öğrenciye veya tarihe göre sorgulama yapar.
+	-	Kayıtları set yapısıyla tekrar etmeden saklar.
+
+10. **Veri Temizleme (Set ile)**
+	-	Listelerdeki tekrar eden kayıtları temizler.
+	-	Veri düzenleme için basit ve hızlı bir çözüm sunar.
+	-	Orijinal sıralamayı koruyarak benzersiz liste oluşturur.
+
+---
+
 ## 🛠️ Kullanılan Teknolojiler
 
 - **Python 3.x**
